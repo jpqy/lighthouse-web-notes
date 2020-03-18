@@ -1,0 +1,2 @@
+- `res.render` similar to a `return`, no code runs after that
+- `<Label for=id` focuses on the input id when clicking the label
